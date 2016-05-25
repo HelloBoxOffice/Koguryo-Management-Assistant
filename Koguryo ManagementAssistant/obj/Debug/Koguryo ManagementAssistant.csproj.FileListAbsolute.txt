@@ -1,0 +1,16 @@
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\Koguryo ManagementAssistant.exe.config
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\Koguryo ManagementAssistant.exe
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\Koguryo ManagementAssistant.pdb
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\MySql.Data.dll
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.csprojResolveAssemblyReference.cache
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo_ManagementAssistant.Login.resources
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo_ManagementAssistant.Properties.Resources.resources
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.csproj.GenerateResource.Cache
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.exe
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.pdb
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo_ManagementAssistant.Record.resources
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.TrustInfo.xml
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\Koguryo ManagementAssistant.exe.manifest
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\bin\Debug\Koguryo ManagementAssistant.application
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.exe.manifest
+C:\Users\Carl\Desktop\KFMAS Management\Koguryo ManagementAssistant\Koguryo ManagementAssistant\obj\Debug\Koguryo ManagementAssistant.application
